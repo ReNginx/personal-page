@@ -12,7 +12,7 @@ Hello! I'm Hanxiang Ren (CN.任瀚祥), a 4th-year Ph.D. candidate at the State 
 
 **Research Interests**: Unsupervised Learning, 3D Reconstruction, Robotics
 
-My CV is available **[here](/files/Resume_HanxiangRen_ZhejiangUniversity.pdf)**
+My CV is available **[here](/files/Resume_HanxiangRen_ZhejiangUniversity.pdf)**.
 
 ## Publications
 
